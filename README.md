@@ -48,21 +48,15 @@ From here, type "ipconfig /flushdns". This will flush the DNS cache and the chan
 
 Next, we'll change a CNAME record. Go back into DC-1 and into the DNS Manager. Right click in the main window pane and click "New Alias (CNAME)..." Type in "search" in "Alias name" and for the FDQN type in Google's. 
 
-<p>
-<img src="https://i.imgur.com/g3QSZUD.png" height="80%" width="80%" alt="13"/>
-</p>
+![image](https://github.com/mathew-perez/Understanding-DNS/assets/144407220/ea4becda-1bce-4a0b-be0d-74ea0e273125)
 
-<p>
-<img src="https://i.imgur.com/HRVzBb1.png" height="80%" width="80%" alt="?."/>
-</p>
 
 Once this is done, go back into Client-1 and back into Command Prompt. Type in "ping search" and see the results. The ping should result to Google's IP address and FQDN. 
 
-<p>
-<img src="https://i.imgur.com/KhPn7Je.png" height="80%" width="80%" alt="14"/>
-</p>
+![image](https://github.com/mathew-perez/Understanding-DNS/assets/144407220/9ec80441-c965-4c67-b693-6cd9ef8fcf1e)
 
-After completing this lab, you should have a basic understanding of how and what DNS is. DNS is only a small part of networking concepts and I hope that this tutorial will give you a base knowledge in this! Continue to learn and grow everyday!
+
+After completing this lab, you should have a basic understanding of how and what DNS is. DNS is only a small part of networking concepts and I hope that this tutorial will give you a base knowledge regarding this concept.
 
 
 
