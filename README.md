@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/rUZwyvW.jpg" height="80%" width="80%" alt="How DNS Works"/>
-</p>
+![image](https://github.com/mathew-perez/Understanding-DNS/assets/144407220/15d4de3a-038e-409f-9fa6-0c33010dd0a8)
+
 
 <h1>Understanding DNS</h1>
 Domain Name System or DNS in laymans terms is the address book for the internet. We as users remember the Fully Qualified Domain Name (FQDN) of websites such as www.google.com rather than the Internet Protocol (IP) addresses. DNS helps users in that sense: people type in the FQDN and the DNS servers resolve the IP addresses of the websites on the backend to connect us to the website. It's like remembering your friend's name in your contacts list on your phone versus remembering their phone number, it is just easier! In this tutorial, I will be showing a way to build intuition on how DNS works. 
