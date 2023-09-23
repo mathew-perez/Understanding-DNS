@@ -56,8 +56,7 @@ Once this is done, go back into Client-1 and back into Command Prompt. Type in "
 ![image](https://github.com/mathew-perez/Understanding-DNS/assets/144407220/9ec80441-c965-4c67-b693-6cd9ef8fcf1e)
 
 
-After completing this lab, you should have a basic understanding of how and what DNS is. DNS is only a small part of networking concepts and I hope that this tutorial will give you a base knowledge regarding this concept.
-
+After completing this lab, you should have a basic understanding of what DNS is and how is works.
 
 
 REMEMBER TO DELETE YOUR RESOURCES IN MICROSOFT AZURE ONCE YOU ARE DONE WITH THE LAB
