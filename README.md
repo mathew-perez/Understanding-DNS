@@ -57,6 +57,3 @@ Once this is done, go back into Client-1 and back into Command Prompt. Type in "
 
 
 After completing this lab, you should have a basic understanding of what DNS is and how is works.
-
-
-REMEMBER TO DELETE YOUR RESOURCES IN MICROSOFT AZURE ONCE YOU ARE DONE WITH THE LAB
